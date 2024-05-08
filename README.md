@@ -10,7 +10,7 @@ Busco mi primer rol en Front End y UX/UI para aplicar mi creatividad, visión es
 
   Estoy actualmente trabajando junto con un equipo una página ficticia de un hotel [VillaSol Hotel](develhope-group-app)
 
-  Actualmente estoy aprendiendo *node.js con express y typScript*
+  Actualmente estoy aprendiendo *node.js con express y typeScript*
 
    Me pueden contactar por mail a *mfrmesa@yahoo.com*
 
