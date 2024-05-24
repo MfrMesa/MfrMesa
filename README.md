@@ -4,7 +4,7 @@
 
 Professional with extensive experience in gastronomic management, leading store implementations, events, and coordination with suppliers. My strategic ability is reflected in event planning, efficient team supervision, resource management, project management, budget handling, among others.
 
-I trained at Develhope as a Full Stack Developer, and in a month, I will start at UXER School to specialize in UX/UI Design.
+I trained at Develhope as a Full Stack Developer, and currently in UXER School to specialize in UX/UI Design.
 
 I'm seeking my first role in Front End and UX/UI to apply my creativity, strategic vision, and leadership skills in a new technological challenge. Connect with me and let's explore how I can uniquely and freshly contribute to your team and innovative project!
 
