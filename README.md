@@ -8,7 +8,7 @@ I trained at Develhope as a Full Stack Developer, and currently in UXER School t
 
 I'm seeking my first role in Front End and UX/UI to apply my creativity, strategic vision, and leadership skills in a new technological challenge. Connect with me and let's explore how I can uniquely and freshly contribute to your team and innovative project!
 
-Currently, I'm working with a team on a fictitious hotel page [VillaSol Hotel](develhope-group-app).
+Currently, I'm working on the modernitation of a web. 
 
 You can contact me via email at *mfrmesa@yahoo.com*.
 
