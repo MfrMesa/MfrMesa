@@ -8,7 +8,7 @@ I trained at Develhope as a Full Stack Developer, and currently in UXER School t
 
 I'm seeking my first role in Front End and UX/UI to apply my creativity, strategic vision, and leadership skills in a new technological challenge. Connect with me and let's explore how I can uniquely and freshly contribute to your team and innovative project!
 
-Currently, I'm working on the modernitation of a web. 
+Currently, I'm working on https://github.com/MfrMesa/Clinica-El-Avila. 
 
 You can contact me via email at *mfrmesa@yahoo.com*.
 
